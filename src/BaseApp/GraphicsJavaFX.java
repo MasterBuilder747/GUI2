@@ -25,7 +25,6 @@ import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
-
 public class GraphicsJavaFX extends Application
 {
     int WIDTH = 512;
